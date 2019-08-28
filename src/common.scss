@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css?family=Sawarabi+Mincho&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,900&display=swap");
+@mixin flexbox {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flexVstart {
+  align-content: flex-start;
+  -webkit-align-content: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  -ms-align-items: flex-start;
+  align-items: flex-start;
+}
+
+@mixin flexVcenter {
+  align-content: center;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+}
+
+@mixin flexVEnd {
+  align-content: flex-end;
+  -webkit-align-content: flex-end;
+  -webkit-box-align: flex-end;
+  -moz-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-align-items: flex-end;
+  align-items: flex-end;
+}
+
+@mixin flexJustifyCenter {
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+@mixin flexWrap {
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+}
+
+@mixin flexDirectionColumn {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+
+@mixin flexDirectionReverse {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+@mixin flexDirectionColReverse {
+  -webkit-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+}
+
+@mixin flexSpaceBetween {
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+@mixin flexSpaceAround {
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+
+@mixin flexJustifyEnd {
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  -webkit-box-pack: end;
+  -moz-box-pack: end;
+  -ms-flex-pack: end;
+}
+
+@mixin flexJustifyStart {
+  justify-content: flex-start;
+  -webkit-justify-content: flex-start;
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  -ms-flex-pack: start;
+}
+
+//=======================================================================
+$mobile: 768px;
+$smallMobile: 480px;
+$red: rgb(199, 0, 37);
+
+@mixin transitionCubic {
+  -moz-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@mixin rotate($degrees) {
+  -webkit-transform: rotate($degrees);
+  -moz-transform: rotate($degrees);
+  -ms-transform: rotate($degrees);
+  -o-transform: rotate($degrees);
+  transform: rotate($degrees);
+}
+
+body {
+  margin: 0;
+  font-family: "Sawarabi Mincho", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #000000;
+}
+h1 {
+  font-size: 100px;
+  width: 100%;
+  letter-spacing: 10px;
+  font-weight: bold;
+  line-height: 1;
+  margin: 40px auto 20px;
+  text-align: center;
+}
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+}
+.main-scene {
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+  background: #ffffff;
+}
