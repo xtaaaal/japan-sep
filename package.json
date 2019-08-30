@@ -4,19 +4,23 @@
   "private": true,
   "homepage": "https://xtaaaal.github.io/japan-sep",
   "dependencies": {
+    "@react-google-maps/api": "^1.6.0",
     "gh-pages": "^2.1.1",
     "google-maps-react": "^2.0.2",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
+    "react-animate-height": "^2.0.15",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-google-maps": "^9.4.5",
+    "react-scripts": "3.1.1",
+    "react-scroll": "^1.7.14"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
