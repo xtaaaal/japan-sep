@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/japan-sep/static/css/main.67b4ac30.chunk.css",
+    "main.js": "/japan-sep/static/js/main.2ef77816.chunk.js",
+    "main.js.map": "/japan-sep/static/js/main.2ef77816.chunk.js.map",
+    "runtime~main.js": "/japan-sep/static/js/runtime~main.f51a8485.js",
+    "runtime~main.js.map": "/japan-sep/static/js/runtime~main.f51a8485.js.map",
+    "static/js/2.81f610c3.chunk.js": "/japan-sep/static/js/2.81f610c3.chunk.js",
+    "static/js/2.81f610c3.chunk.js.map": "/japan-sep/static/js/2.81f610c3.chunk.js.map",
+    "index.html": "/japan-sep/index.html",
+    "precache-manifest.4582cc42a6cd98dcd13d16176dbf9c9d.js": "/japan-sep/precache-manifest.4582cc42a6cd98dcd13d16176dbf9c9d.js",
+    "service-worker.js": "/japan-sep/service-worker.js",
+    "static/css/main.67b4ac30.chunk.css.map": "/japan-sep/static/css/main.67b4ac30.chunk.css.map",
+    "static/media/fuji-mountain.svg": "/japan-sep/static/media/fuji-mountain.c2cf888a.svg",
+    "static/media/logo.svg": "/japan-sep/static/media/logo.e5adbca1.svg",
+    "static/media/temple.svg": "/japan-sep/static/media/temple.a01b0017.svg",
+    "static/media/torii.svg": "/japan-sep/static/media/torii.fc1ad302.svg"
+  }
+}
