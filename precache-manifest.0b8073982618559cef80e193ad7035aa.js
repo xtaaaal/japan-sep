@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30edfaabfce43e12346b268c8ef45707",
+    "revision": "7a19eb38f87b0e8ce4f50dd5b2fa127b",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "9a0e0fd104019b284b63",
+    "revision": "0b246ce7b919ad6695ab",
     "url": "/japan-sep/static/css/main.b3185778.chunk.css"
   },
   {
-    "revision": "19bf92016015c3913461",
-    "url": "/japan-sep/static/js/2.00d2b391.chunk.js"
+    "revision": "21f2b0add8e34b16a5ba",
+    "url": "/japan-sep/static/js/2.56bb479d.chunk.js"
   },
   {
-    "revision": "9a0e0fd104019b284b63",
-    "url": "/japan-sep/static/js/main.6055539b.chunk.js"
+    "revision": "0b246ce7b919ad6695ab",
+    "url": "/japan-sep/static/js/main.14f743d0.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a01b00173f29c6f050d8e17e7366b5fc",
     "url": "/japan-sep/static/media/temple.a01b0017.svg"
+  },
+  {
+    "revision": "a75eacb14c494b6b6ed67ce580b78842",
+    "url": "/japan-sep/static/media/tin_lake_bus_in_timetable.a75eacb1.jpg"
   },
   {
     "revision": "fc1ad3024d94b4f9b8dae428b4f09dc3",
