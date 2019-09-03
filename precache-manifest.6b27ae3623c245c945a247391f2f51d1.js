@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "530c2a0c85ed0650dc54077e8e6d0299",
+    "revision": "31ef45f4be52ce162054ea04a49becbc",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "817d6a7c98b955b1f9a7",
-    "url": "/japan-sep/static/css/main.e948eb95.chunk.css"
+    "revision": "138ddb0288fff171fcc3",
+    "url": "/japan-sep/static/css/main.2409ec95.chunk.css"
   },
   {
-    "revision": "f0cb7562b5603c5a8290",
-    "url": "/japan-sep/static/js/2.b6885b6a.chunk.js"
+    "revision": "878060d249e7e1491ba5",
+    "url": "/japan-sep/static/js/2.ec27e75d.chunk.js"
   },
   {
-    "revision": "817d6a7c98b955b1f9a7",
-    "url": "/japan-sep/static/js/main.d06ee4bc.chunk.js"
+    "revision": "138ddb0288fff171fcc3",
+    "url": "/japan-sep/static/js/main.3e8be0c2.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
@@ -22,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2cf888a58ee4bbea44f139b5b6e9f41",
     "url": "/japan-sep/static/media/fuji-mountain.c2cf888a.svg"
+  },
+  {
+    "revision": "3dbef5b5459d63669cb8ec6a8bcaf901",
+    "url": "/japan-sep/static/media/fujibus_towards_marked.3dbef5b5.jpg"
+  },
+  {
+    "revision": "6bf6ab352882d0bd3c112d5946d49ce1",
+    "url": "/japan-sep/static/media/fujilakes_bus_route.6bf6ab35.jpg"
   },
   {
     "revision": "3ee8c71ecfa74f442c6f45ae9ab7d29c",
