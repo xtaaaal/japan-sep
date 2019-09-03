@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd1d8eeb4809920cff1155eacf70c271",
+    "revision": "0d7781b13f09f9e317bbd5e86b726aa2",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "f9a00d41dabbb176890f",
-    "url": "/japan-sep/static/css/main.632fe9bd.chunk.css"
+    "revision": "c9a81eb29afbb85d005c",
+    "url": "/japan-sep/static/css/main.b83e30da.chunk.css"
   },
   {
-    "revision": "878060d249e7e1491ba5",
-    "url": "/japan-sep/static/js/2.ec27e75d.chunk.js"
+    "revision": "805560e014f90b9b2969",
+    "url": "/japan-sep/static/js/2.e6df475c.chunk.js"
   },
   {
-    "revision": "f9a00d41dabbb176890f",
-    "url": "/japan-sep/static/js/main.485ed232.chunk.js"
+    "revision": "c9a81eb29afbb85d005c",
+    "url": "/japan-sep/static/js/main.91032b68.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2cf888a58ee4bbea44f139b5b6e9f41",
     "url": "/japan-sep/static/media/fuji-mountain.c2cf888a.svg"
+  },
+  {
+    "revision": "511260bdd7dfcff70334c704bead3eda",
+    "url": "/japan-sep/static/media/fujibus_back_marked.511260bd.jpg"
   },
   {
     "revision": "3dbef5b5459d63669cb8ec6a8bcaf901",
