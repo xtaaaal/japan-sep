@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d7781b13f09f9e317bbd5e86b726aa2",
+    "revision": "28f385850383b693560311f009aa5d5e",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "c9a81eb29afbb85d005c",
+    "revision": "1c08fa32840adc301b7c",
     "url": "/japan-sep/static/css/main.b83e30da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/japan-sep/static/js/2.e6df475c.chunk.js"
   },
   {
-    "revision": "c9a81eb29afbb85d005c",
-    "url": "/japan-sep/static/js/main.91032b68.chunk.js"
+    "revision": "1c08fa32840adc301b7c",
+    "url": "/japan-sep/static/js/main.21e815e2.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
