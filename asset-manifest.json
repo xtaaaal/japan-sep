@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/japan-sep/static/css/main.e948eb95.chunk.css",
+    "main.js": "/japan-sep/static/js/main.d06ee4bc.chunk.js",
+    "main.js.map": "/japan-sep/static/js/main.d06ee4bc.chunk.js.map",
+    "runtime~main.js": "/japan-sep/static/js/runtime~main.f51a8485.js",
+    "runtime~main.js.map": "/japan-sep/static/js/runtime~main.f51a8485.js.map",
+    "static/js/2.b6885b6a.chunk.js": "/japan-sep/static/js/2.b6885b6a.chunk.js",
+    "static/js/2.b6885b6a.chunk.js.map": "/japan-sep/static/js/2.b6885b6a.chunk.js.map",
+    "index.html": "/japan-sep/index.html",
+    "precache-manifest.330ab73a30f5d99e7211f0ce00d7e6ad.js": "/japan-sep/precache-manifest.330ab73a30f5d99e7211f0ce00d7e6ad.js",
+    "service-worker.js": "/japan-sep/service-worker.js",
+    "static/css/main.e948eb95.chunk.css.map": "/japan-sep/static/css/main.e948eb95.chunk.css.map",
+    "static/media/fuji-mountain.svg": "/japan-sep/static/media/fuji-mountain.c2cf888a.svg",
+    "static/media/fujizoobus.jpg": "/japan-sep/static/media/fujizoobus.3ee8c71e.jpg",
+    "static/media/fujizoobus2.jpg": "/japan-sep/static/media/fujizoobus2.5071198d.jpg",
+    "static/media/logo.svg": "/japan-sep/static/media/logo.e5adbca1.svg",
+    "static/media/temple.svg": "/japan-sep/static/media/temple.a01b0017.svg",
+    "static/media/tin_lake_bus_in_timetable.jpg": "/japan-sep/static/media/tin_lake_bus_in_timetable.a75eacb1.jpg",
+    "static/media/torii.svg": "/japan-sep/static/media/torii.fc1ad302.svg"
+  }
+}
