@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1abcb4f244a374b144cfb87fb622dc7e",
+    "revision": "26a27d9824011bfa30ca10594b7723b6",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "77eebbf8ceb430ca502a",
+    "revision": "1b1894fda2b7d56878e0",
     "url": "/japan-sep/static/css/main.24298b60.chunk.css"
   },
   {
-    "revision": "9207dea5ba4aada6e610",
-    "url": "/japan-sep/static/js/2.0941801d.chunk.js"
+    "revision": "f48f8b106bc27bdf76df",
+    "url": "/japan-sep/static/js/2.36442def.chunk.js"
   },
   {
-    "revision": "77eebbf8ceb430ca502a",
-    "url": "/japan-sep/static/js/main.375e8fc8.chunk.js"
+    "revision": "1b1894fda2b7d56878e0",
+    "url": "/japan-sep/static/js/main.52604e5e.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5071198da70572fb70f6a0de4a9e4a54",
     "url": "/japan-sep/static/media/fujizoobus2.5071198d.jpg"
+  },
+  {
+    "revision": "b22899b126f4a320448b28f71a15a389",
+    "url": "/japan-sep/static/media/koinobori.b22899b1.svg"
   },
   {
     "revision": "e5adbca1e56998726be9d7bb27a2ff8d",
