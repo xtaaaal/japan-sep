@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b832a861bf0705914b53d243e8fb1f4f",
+    "revision": "8d1a0cd21dceec3a9a027cbf7bac5914",
     "url": "/japan-sep/index.html"
   },
   {
-    "revision": "9cb2d3effdc153104809",
+    "revision": "7294a6ba76dd7744e6fa",
     "url": "/japan-sep/static/css/main.99368a01.chunk.css"
   },
   {
-    "revision": "71776265cb08187966e1",
-    "url": "/japan-sep/static/js/2.09ce74ca.chunk.js"
+    "revision": "3f0d8f051746bbffc330",
+    "url": "/japan-sep/static/js/2.2303c14e.chunk.js"
   },
   {
-    "revision": "9cb2d3effdc153104809",
-    "url": "/japan-sep/static/js/main.27738daf.chunk.js"
+    "revision": "7294a6ba76dd7744e6fa",
+    "url": "/japan-sep/static/js/main.5f87b891.chunk.js"
   },
   {
     "revision": "9bf114eb64aae3218bdf",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd692591b10478a8ac84b100ff7ebf13",
     "url": "/japan-sep/static/media/cloudy_sun.cd692591.svg"
+  },
+  {
+    "revision": "c3fb8e178aec3890574c00dc222f67fa",
+    "url": "/japan-sep/static/media/entire.c3fb8e17.png"
   },
   {
     "revision": "c2cf888a58ee4bbea44f139b5b6e9f41",
